@@ -1,4 +1,4 @@
-# Numpy
+# Numpy 🧮
 NumPy (Numerical Python) is the fundamental package for scientific computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of high-level mathematical functions to operate on these arrays efficiently.
 
 ---
